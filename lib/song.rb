@@ -31,7 +31,7 @@ end
  
  def self.genre_count
    count = {}
-   binding.pry
+ 
  end
  
  def self.artist_count
