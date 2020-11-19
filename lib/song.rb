@@ -35,7 +35,7 @@ end
      if count[key]
        count[key] += 1
      else 
-       
+       count[key] = 1
        
       end
     end
