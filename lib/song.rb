@@ -32,7 +32,8 @@ end
  def self.genre_count
    count = {}
    @@genres.each do |key| 
-     if count[key] 
+     if count[key] += 1
+       
        
        
       end
