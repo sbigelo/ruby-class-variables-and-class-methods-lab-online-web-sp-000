@@ -38,6 +38,7 @@ end
        count[key] = 1
        
       end
+      count
     end
  end
  
