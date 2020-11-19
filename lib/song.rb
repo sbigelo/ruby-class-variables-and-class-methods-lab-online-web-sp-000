@@ -31,8 +31,8 @@ end
  
  def self.genre_count
    count = {}
-   self.each do |key| 
-     
+   @@genres.each do |key| 
+     count << key.uniq
     end
  end
  
