@@ -31,7 +31,9 @@ end
  
  def self.genre_count
    count = {}
- 
+   self.each do |key| 
+     
+    end
  end
  
  def self.artist_count
