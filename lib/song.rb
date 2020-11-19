@@ -39,7 +39,7 @@ end
        
       end
     end
-    count[key] += 1
+    count
  end
  
  def self.artist_count
