@@ -32,7 +32,10 @@ end
  def self.genre_count
    count = {}
    @@genres.each do |key| 
-     count << key.uniq
+     if 
+       
+       
+      end
     end
  end
  
